@@ -136,3 +136,9 @@
   font-size: 116px;
 
 }
+
+.hover:hover{
+
+  color:black;
+  background-color: white;
+}
